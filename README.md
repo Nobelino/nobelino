@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nobelino 😁
+## Olá, me chamo Gabriel. Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/nobelino">
